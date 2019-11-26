@@ -1,0 +1,19 @@
+.DS_Store
+**.vscode/
+
+# Build Results
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.map
+*.srec
+*.lst
+*.lss
+*.sym
+
+# Doxygen
+config-file
+html/
+latex/
